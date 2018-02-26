@@ -24,7 +24,7 @@ Remember that you already have some shortcuts (these are left alone):
 • [f] toggle fullscreen  
 • [space] play/pause  
   
-You can also create a bookmark with the URL/link being the hidivePlayerOverride.txt text. Then, whenever you click on the bookmark, it will run the script. Bookmarks that run JavaScript instead of going to a webpage are called bookmarklets.  
+You can also create a bookmark with the URL/link being the HIDIVEPlayerOverride.txt text. Then, whenever you click on the bookmark, it will run the script. Bookmarks that run JavaScript instead of going to a webpage are called bookmarklets.  
   
 Why this works  
 HIDIVE uses an HTML5 video player. This allows for customer scripting.  
