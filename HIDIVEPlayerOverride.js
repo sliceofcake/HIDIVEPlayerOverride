@@ -44,8 +44,8 @@
 		gst : function(){
 			return ""
 			+"@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');"
-			// !!! generalize this to be the leaf node, then all other nodes, regardless of actual count
-			+".player-override-subtitle {all:unset !important;width:100% !important;height:100% !important;}"
+			// !!! generalize this to be the leaf node, then all other nodes, regardless of actual count (there are some complex details though...)
+			+".player-override-subtitle {bottom:unset !important;width:100% !important;height:100% !important;}" // respect display:none for subtitle beats
 			+".player-override-subtitle>* {all:unset !important;width:100% !important;height:100% !important;}"
 			+".player-override-subtitle>*>* {all:unset !important;width:100% !important;height:100% !important;}"
 			+".player-override-subtitle>*>*>* {all:unset !important;width:100% !important;height:100% !important;}"
