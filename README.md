@@ -20,6 +20,7 @@ Run this JavaScript in your browser when viewing a HIDIVE video player page for:
 • new keyboard shortcut: [h] toggle hidden-ness of non-subtitles stuff in front of video (when "on", merely restores control to HIDIVE)  
 • new keyboard shortcut: [shift+h] toggle hidden-ness of subtitles (when "on", merely restores control to HIDIVE)  
 • improved subtitles appearance (larger text, different font, thicker outline, closer to bottom)
+• quicker mouse hiding (mouse disappears quicker when held still)  
   
 Remember that you already have some shortcuts (these are left alone):  
 • [f] toggle fullscreen  
